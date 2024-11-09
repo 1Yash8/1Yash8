@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1Yash8
 - 👀 I’m interested in coding and blogging
 - 🌱 I’m currently learning engineering 
-- 
 - 📫 How to reach me 
 https://instagram.com/lts_yash_?igshid=YmMyMTA2M2Y=
 <!---
